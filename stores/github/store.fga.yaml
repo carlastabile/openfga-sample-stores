@@ -4,6 +4,7 @@ name: GitHub
 model_file: ./model.fga
 tuples:
   # The OpenFGA organization is the owner of the openfga/openfga repository
+  # random change to test action
   - user: organization:openfga
     relation: owner
     object: repo:openfga/openfga

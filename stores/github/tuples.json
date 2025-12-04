@@ -1,0 +1,9 @@
+[{
+  "user": "user:anne2",
+  "relation": "reader",
+  "object": "repo:roadmap"
+}, {
+  "user": "user:beth1",
+  "relation": "writer",
+  "object": "repo:roadmap"
+}]
